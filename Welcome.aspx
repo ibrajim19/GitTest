@@ -15,7 +15,7 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-    <title>Strategic Projects - Home</title>
+    <title>Strategic Projects - Home IHS</title>
     <meta content="" name="descriptison" />
     <meta content="" name="keywords" />
 
@@ -694,7 +694,7 @@
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
                     <h1>STRATEGIC <span>PROJECT </span></h1>
-                    <h2>Tools for Project & Strategic Management </h2>
+                    <h2>Tools for Project & Strategic Management cambios </h2>
                 </div>
             </div>
 
